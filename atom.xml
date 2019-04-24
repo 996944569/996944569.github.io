@@ -6,11 +6,11 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-04-24T18:32:10.961Z</updated>
+  <updated>2019-04-24T20:55:42.693Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>Smallfive</name>
     
   </author>
   
@@ -20,8 +20,8 @@
     <title>你好,Hexo</title>
     <link href="http://yoursite.com/2019/04/25/ni-hao-hexo/"/>
     <id>http://yoursite.com/2019/04/25/ni-hao-hexo/</id>
-    <published>2019-04-24T18:32:10.000Z</published>
-    <updated>2019-04-24T18:32:10.961Z</updated>
+    <published>2019-04-24T18:32:00.000Z</published>
+    <updated>2019-04-24T20:55:42.693Z</updated>
     
     <summary type="html">
     
